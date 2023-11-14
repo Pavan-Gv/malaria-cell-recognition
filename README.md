@@ -14,10 +14,15 @@ The Convolutional Neural Network method reduces the likelihood of overfitting by
 ## DESIGN STEPS:
 
 **STEP 1:** Import tensorflow and preprocessing libraries
+
 **STEP 2:** Create an ImageDataGenerator to flow image data
+
 **STEP 3:** Build the convolutional neural network model and train the model
+
 **STEP 4:** Evaluate the model with the testing data
+
 **STEP 5:** Fit the model
+
 **STEP 6:** Plot the performance plot
 
 ## PROGRAM
